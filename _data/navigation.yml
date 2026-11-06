@@ -2,7 +2,7 @@ docs:
   - title: "Main Menu"
     children:
       - title: "Home"
-        url: /
+        url: /README/
       - title: "Starting the Printer"
         url: /start/
       - title: "Building the OctoPi image"
