@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Introduction"
-permalink: /main/
+permalink: /README/
 ---
 
 # CreatorBot 3D Pro Series II - Installing OctoPi
