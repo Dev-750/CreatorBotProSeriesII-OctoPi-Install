@@ -1,0 +1,13 @@
+docs:
+  - title: "Main Menu"
+    children:
+      - title: "Home"
+        url: /
+      - title: "Starting the Printer"
+        url: /start/
+      - title: "Building the OctoPi image"
+        url: /octopiImage/
+      - title: "Running OctoPrint"
+        url: /octoprintRun/
+      - title: "Installing OctoDash"
+        url: /octodashInstall/
