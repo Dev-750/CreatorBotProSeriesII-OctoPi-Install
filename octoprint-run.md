@@ -1,10 +1,11 @@
 ---
 layout: single
 title: "Running OctoPrint"
-permalink: /octoprintRun/
+permalink: /octoprint-run/
+sidebar:
+	nav: "docs"
 ---
 
-# Running OctoPrint
 Now that OctoPi is on the Pi it will Start the OctoPrint server which can be accessed from a Browser on the same network to control the printer.
 
 1. To access OctoPrint, open your browser and type in one of three options:

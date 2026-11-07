@@ -1,10 +1,11 @@
 ---
 layout: single
 title: "Building the OctoPi Image"
-permalink: /octopiImage/
+permalink: /octopi-image/
+sidebar:
+	nav: "docs"
 ---
 
-# Creating the Image
 1. You will need to Format the Raspberry Pi's SD card or get another micro SD (8-32GB). It must be FAT32.
 2. Install the Raspberry Pi Imager. On a debian terminal you can use `sudo apt install rpi-imager`
 3. In the Imager, set the OS under "Other (Specific)" -> "3D Printing" -> select "OctoPi (Stable)"

@@ -1,7 +1,8 @@
 ---
 layout: single
 title: "Home"
-permalink: /README/
+sidebar:
+	nav: "docs"
 ---
 
 # CreatorBot 3D Pro Series II - Installing OctoPi

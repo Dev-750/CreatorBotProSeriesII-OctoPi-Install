@@ -1,10 +1,10 @@
 ---
 layout: single
 title: "Installing OctoDash"
-permalink: /octodashInstall/
+permalink: /octodash-install/
+sidebar:
+	nav: "docs"
 ---
-
-# OctoDash Install
 
 Since this printer comes with a touch screen, you might as well have a GUI on it. OctoDash gives you access to key controls right from the touch screen
 

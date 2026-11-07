@@ -2,12 +2,12 @@ docs:
   - title: "Main Menu"
     children:
       - title: "Home"
-        url: /README/
+        url: /
       - title: "Starting the Printer"
         url: /start/
       - title: "Building the OctoPi Image"
-        url: /octopiImage/
+        url: /octopi-image/
       - title: "Running OctoPrint"
-        url: /octoprintRun/
+        url: /octoprint-run/
       - title: "Installing OctoDash"
-        url: /octodashInstall/
+        url: /octodash-install/

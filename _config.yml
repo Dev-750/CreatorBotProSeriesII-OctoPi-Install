@@ -5,7 +5,8 @@ baseurl: "/CreatorBotProSeriesII-OctoPi-Install"
 
 # Theme Configuration
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 locale: "en-US"
