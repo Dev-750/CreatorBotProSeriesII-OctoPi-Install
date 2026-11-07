@@ -8,7 +8,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 locale: "en-US"
 
 # Site Defaults
@@ -18,5 +18,6 @@ defaults:
       type: "posts"
     values:
       layout: "single"
+      thor_profile: true
       sidebar:
         nav: "docs"
