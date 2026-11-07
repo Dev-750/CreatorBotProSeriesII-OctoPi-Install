@@ -5,7 +5,7 @@ docs:
         url: /README/
       - title: "Starting the Printer"
         url: /start/
-      - title: "Building the OctoPi image"
+      - title: "Building the OctoPi Image"
         url: /octopiImage/
       - title: "Running OctoPrint"
         url: /octoprintRun/

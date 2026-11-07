@@ -1,13 +1,13 @@
 title: LTC 3D Printer Docs
 description: Resources for LTC's Mechatronics/Automation Program 3D printers.
-url: "https://dev-750github.io"
+url: "https://dev-750.github.io"
 baseurl: "/CreatorBotProSeriesII-OctoPi-Install"
 
 # Theme Configuration
 plugins:
 - jekyll-remote-theme
 
-reomte_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 locale: "en-US"
 
 # Site Defaults

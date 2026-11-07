@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Introduction"
+title: "Home"
 permalink: /README/
 ---
 
