@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: "Starting the Printer"
 permalink: /start/
 ---
