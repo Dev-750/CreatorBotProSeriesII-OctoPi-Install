@@ -1,8 +1,6 @@
 ---
-layout: single
 title: "Home"
-sidebar:
-	nav: "docs"
+layout: home
 ---
 
 OctoPi, OctoDash, Touch Drivers, etc.
