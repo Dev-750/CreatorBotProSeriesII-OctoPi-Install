@@ -1,9 +1,7 @@
 ---
-layout: single
+layout: page
 title: "Building the OctoPi Image"
 permalink: /octopi-image/
-sidebar:
-	nav: "docs"
 ---
 
 1. You will need to Format the Raspberry Pi's SD card or get another micro SD (8-32GB). It must be FAT32.
