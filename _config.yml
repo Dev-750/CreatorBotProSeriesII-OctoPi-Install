@@ -4,21 +4,4 @@ url: "https://dev-750.github.io"
 baseurl: "/CreatorBotProSeriesII-OctoPi-Install"
 
 # Theme Configuration
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
-
-# remote_theme: "mmistakes/minimal-mistakes@4.28.1"
-theme: "jekyll-theme-cayman"
-locale: "en-US"
-
-# Site Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "single"
-      thor_profile: true
-      sidebar:
-        nav: "docs"
+theme: just-the-docs
