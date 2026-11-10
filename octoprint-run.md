@@ -1,9 +1,7 @@
 ---
-layout: single
+layout: page
 title: "Running OctoPrint"
 permalink: /octoprint-run/
-sidebar:
-	nav: "docs"
 ---
 
 Now that OctoPi is on the Pi it will Start the OctoPrint server which can be accessed from a Browser on the same network to control the printer.
