@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.4.1"
-gem "minimal-mistakes-jekyll"
+gem "just-the-docs", "0.12.0"
 gem "jekyll-include-cache", group: :jekyll_plugins
